@@ -54,10 +54,10 @@ def main():
     )
 
     # Título principal da aplicação
-    st.write('# Telemarketing analisys')
-	st.write('# Telemarketing analisys')
-	st.write('# Telemarketing analisys')
-	st.write('# Telemarketing analisys')
+st.write('# Telemarketing analisys')
+st.write('# Telemarketing analisys')
+st.write('# Telemarketing analisys')
+st.write('# Telemarketing analisys')
 
     st.markdown("---")
     
